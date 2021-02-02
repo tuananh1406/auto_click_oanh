@@ -1,7 +1,7 @@
 # coding: utf-8
 import os
 import time
-import pickle
+import simplejson
 from selenium import webdriver
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
@@ -52,18 +52,21 @@ WebDriverWait(trinh_duyet, 20).until(
     EC.element_to_be_clickable((By.XPATH, xpath_email))
 )
 email = trinh_duyet.find_element_by_xpath(xpath_email)
-email.send_keys('htuananh14061')
+email.send_keys('htuananh14062')
 email.send_keys(Keys.ENTER)
 WebDriverWait(trinh_duyet, 20).until(
     EC.element_to_be_clickable((By.XPATH, xpath_pass))
 )
 password = trinh_duyet.find_element_by_xpath(xpath_pass)
-password.send_keys('1234')
+password.send_keys('tanhatnam')
 password.send_keys(Keys.ENTER)
 
 time.sleep(5)
-trinh_duyet.get('https://ads.google.com/')
+#trinh_duyet.get('https://ads.google.com/')
 cookies = trinh_duyet.get_cookies()
-print(cookies)
+print(len(cookies))
+text = simplejson.dumps(cookies, indent=4, sort_keys=True)
+print(type(text))
+trinh_duyet.close()
 with open('cookies.txt', 'w') as tep_cookies:
-    pickle.dump(cookies, tep_cookies)
+    tep_cookies.write(text)

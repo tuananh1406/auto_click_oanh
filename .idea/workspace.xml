@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e166a690-db95-432b-a142-540d57c5bc31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chuong_trinh.py" afterDir="false" />
+    <list default="true" id="e166a690-db95-432b-a142-540d57c5bc31" name="Default Changelist" comment="Cập nhật tự động đăng nhập tài khoản google và chuyển sang website gooogle ads">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chuong_trinh.py" beforeDir="false" afterPath="$PROJECT_DIR$/chuong_trinh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,8 +80,24 @@
       <updated>1612232848896</updated>
       <workItem from="1612232865970" duration="1303000" />
       <workItem from="1612234483203" duration="7650000" />
-      <workItem from="1612249767402" duration="3750000" />
+      <workItem from="1612249767402" duration="4581000" />
+      <workItem from="1612254662870" duration="3016000" />
     </task>
+    <task id="LOCAL-00001" summary="Cập nhật tự động đăng nhập tài khoản google và chuyển sang website gooogle ads">
+      <created>1612253584298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612253584298</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Cập nhật tự động đăng nhập tài khoản google và chuyển sang website gooogle ads">
+      <created>1612253702616</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612253702616</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +114,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cập nhật tự động đăng nhập tài khoản google và chuyển sang website gooogle ads" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cập nhật tự động đăng nhập tài khoản google và chuyển sang website gooogle ads" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Auto_Click_Oanh$anaconda.coverage" NAME="anaconda Coverage Results" MODIFIED="1612237188946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
