@@ -1,0 +1,500 @@
+1612235775147	geckodriver	INFO	Listening on 127.0.0.1:64299
+1612235778223	mozrunner::runner	INFO	Running command: "C:\\Users\\DVKH\\Documents\\GitHub\\FirefoxPortable V15\\App\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofileUn3Aa8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 9048, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1612235831209	Marionette	INFO	Listening on port 64307
+1612235831941	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612236079543	Marionette	INFO	Stopped listening on port 64307
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+"C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofileCVEb6e"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612235988285	Marionette	INFO	Listening on port 64391
+1612235988531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1612236016695	Marionette	INFO	Stopped listening on port 64391
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1612236067728	geckodriver	INFO	Listening on 127.0.0.1:64443
+1612236081179	geckodriver	INFO	Listening on 127.0.0.1:64452
+1612237352763	geckodriver	INFO	Listening on 127.0.0.1:64873
+1612237355921	mozrunner::runner	INFO	Running command: "C:\\Users\\DVKH\\Documents\\GitHub\\FirefoxPortable V15\\App\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofilegFH4WD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1612237379631	Marionette	INFO	Listening on port 64884
+1612237379979	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 687: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 687: WebGL context was lost.
+1612237519218	Marionette	INFO	Stopped listening on port 64884
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1612237588110	geckodriver	INFO	Listening on 127.0.0.1:64951
+1612237598033	mozrunner::runner	INFO	Running command: "C:\\Users\\DVKH\\Documents\\GitHub\\FirefoxPortable V15\\App\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofile91xSYD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2021-02-02T03:46:39Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1612237656789	geckodriver	INFO	Listening on 127.0.0.1:64983
+1612237665600	mozrunner::runner	INFO	Running command: "C:\\Users\\DVKH\\Documents\\GitHub\\FirefoxPortable V15\\App\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofile33kno0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2021-02-02T03:47:46Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1612237836133	geckodriver	INFO	Listening on 127.0.0.1:65079
+1612237844838	mozrunner::runner	INFO	Running command: "C:\\Users\\DVKH\\Documents\\GitHub\\FirefoxPortable V15\\App\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofilek4LQqf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2021-02-02T03:50:45Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1612237859841	geckodriver	INFO	Listening on 127.0.0.1:65095
+1612237868302	mozrunner::runner	INFO	Running command: "C:\\Users\\DVKH\\Documents\\GitHub\\FirefoxPortable V15\\App\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofileqwGgE0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2021-02-02T03:51:08Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1612238438663	geckodriver	INFO	Listening on 127.0.0.1:65246
+1612238447436	mozrunner::runner	INFO	Running command: "C:\\Users\\DVKH\\Documents\\GitHub\\FirefoxPortable V15\\App\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofileaKoKyF"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2021-02-02T04:00:48Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1612238568264	geckodriver	INFO	Listening on 127.0.0.1:65274
+1612238577046	mozrunner::runner	INFO	Running command: "C:\\Users\\DVKH\\Documents\\GitHub\\FirefoxPortable V15\\App\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofilezKKsO7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+[GFX1-]: shader-cache: Shader disk cache is not supported
+[2021-02-02T04:02:57Z ERROR webrender_bindings::program_cache] shader-cache: Shader disk cache is not supported
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1612238666478	geckodriver	INFO	Listening on 127.0.0.1:65335
+1612238670648	mozrunner::runner	INFO	Running command: "C:\\Users\\DVKH\\Documents\\GitHub\\FirefoxPortable V15\\App\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofileUYNLmK"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1612238672462	Marionette	INFO	Listening on port 65343
+1612238672819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/xjs/_/js/k=xjs.s.vi.fcA-LWgtq1o.O/ck=xjs.s.mYO3E0NmALo.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,d,csi/am=AAAAAAAAAGBlAECAAwAAAIAlMAPg_AcBABdc4gAAAACABGhJ0CgVICEgAAIAAICsLpQAgEA/d=1/dg=2/ct=zgms/rs=ACT90oFUYWwBHLLkpv1TlzCwI6iDJxLO2g, line 298: Script terminated by timeout at:
+s_.init@https://www.google.com/xjs/_/js/k=xjs.s.vi.fcA-LWgtq1o.O/ck=xjs.s.mYO3E0NmALo.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,d,csi/am=AAAAAAAAAGBlAECAAwAAAIAlMAPg_AcBABdc4gAAAACABGhJ0CgVICEgAAIAAICsLpQAgEA/d=1/dg=2/ct=zgms/rs=ACT90oFUYWwBHLLkpv1TlzCwI6iDJxLO2g:298:173
+s_Fg@https://www.google.com/xjs/_/js/k=xjs.s.vi.fcA-LWgtq1o.O/ck=xjs.s.mYO3E0NmALo.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,d,csi/am=AAAAAAAAAGBlAECAAwAAAIAlMAPg_AcBABdc4gAAAACABGhJ0CgVICEgAAIAAICsLpQAgEA/d=1/dg=2/ct=zgms/rs=ACT90oFUYWwBHLLkpv1TlzCwI6iDJxLO2g:295:380
+s_1ia@https://www.google.com/xjs/_/js/k=xjs.s.vi.fcA-LWgtq1o.O/ck=xjs.s.mYO3E0NmALo.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,d,csi/am=AAAAAAAAAGBlAECAAwAAAIAlMAPg_AcBABdc4gAAAACABGhJ0CgVICEgAAIAAICsLpQAgEA/d=1/dg=2/ct=zgms/rs=ACT90oFUYWwBHLLkpv1TlzCwI6iDJxLO2g:311:293
+s__ia/b<@https://www.google.com/xjs/_/js/k=xjs.s.vi.fcA-LWgtq1o.O/ck=xjs.s.mYO3E0NmALo.L.F4.O/m=ZyRBae,cdos,cr,dpf,hsm,jsa,d,csi/am=AAAAAAAAAGBlAECAAwAAAIAlMAPg_AcBABdc4gAAAACABGhJ0CgVICEgAAIAAICsLpQAgEA/d=1/dg=2/ct=zgms/rs=ACT90oFUYWwBHLLkpv1TlzCwI6iDJxLO2g:307:277
+
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 687: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 687: WebGL context was lost.
+JavaScript error: chrome://mozapps/content/profile/createProfileWizard.js, line 147: TypeError: newProfileRoot is null
+1612238799524	Marionette	INFO	Stopped listening on port 65343
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1612238823898	geckodriver	INFO	Listening on 127.0.0.1:65408
+1612238829622	mozrunner::runner	INFO	Running command: "C:\\Users\\DVKH\\Documents\\GitHub\\FirefoxPortable V15\\App\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofileNVXmSd"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612238833815	Marionette	INFO	Listening on port 65417
+1612238833943	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 687: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 687: WebGL context was lost.
+1612238884139	Marionette	INFO	Stopped listening on port 65417
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1612239319392	geckodriver	INFO	Listening on 127.0.0.1:49192
+1612239322457	mozrunner::runner	INFO	Running command: "C:\\Users\\DVKH\\Documents\\GitHub\\FirefoxPortable V15\\App\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofileNpQSr3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612239326784	Marionette	INFO	Listening on port 49200
+1612239327286	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 687: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 687: WebGL context was lost.
+1612239403368	Marionette	INFO	Stopped listening on port 49200
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1612239452728	geckodriver	INFO	Listening on 127.0.0.1:49261
+1612239461138	mozrunner::runner	INFO	Running command: "C:\\Users\\DVKH\\Documents\\GitHub\\FirefoxPortable V15\\App\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofile9BeCRh"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1612239462227	Marionette	INFO	Listening on port 49272
+1612239462677	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 687: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 687: WebGL context was lost.
+[Parent 5544, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1612239593241	Marionette	INFO	Stopped listening on port 49272
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1612239611750	geckodriver	INFO	Listening on 127.0.0.1:49297
+1612239621046	mozrunner::runner	INFO	Running command: "C:\\Users\\DVKH\\Documents\\GitHub\\FirefoxPortable V15\\App\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofilebvyfFU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1612239622553	Marionette	INFO	Listening on port 49305
+1612239622594	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612239677755	Marionette	INFO	Stopped listening on port 49305
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1612246970402	geckodriver	INFO	Listening on 127.0.0.1:64554
+1612246979892	mozrunner::runner	INFO	Running command: "C:\\Users\\DVKH\\Documents\\GitHub\\FirefoxPortable V15\\App\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofileE9pMGB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1612246981982	Marionette	INFO	Listening on port 64562
+1612246982058	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1612247037880	Marionette	INFO	Stopped listening on port 64562
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1612247073104	geckodriver	INFO	Listening on 127.0.0.1:64620
+1612247076137	mozrunner::runner	INFO	Running command: "C:\\Users\\DVKH\\Documents\\GitHub\\FirefoxPortable V15\\App\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofilePQIzMl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612247079979	Marionette	INFO	Listening on port 64629
+1612247080352	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://ssl.gstatic.com/support/realtime/operator/1611738092232/operatordeferred_bin_base__vi.js, line 107: uncaught exception: [object Object]
+[Parent 12904, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1612247166974	Marionette	INFO	Stopped listening on port 64629
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1612247340463	geckodriver	INFO	Listening on 127.0.0.1:64785
+1612247429475	geckodriver	INFO	Listening on 127.0.0.1:64804
+1612247467008	geckodriver	INFO	Listening on 127.0.0.1:64814
+1612247469978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofileJY7YZ3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612247476912	Marionette	INFO	Listening on port 64822
+1612247477809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612247477942	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://ssl.gstatic.com/support/realtime/operator/1611738092232/operatordeferred_bin_base__vi.js, line 107: uncaught exception: [object Object]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612247575415	Marionette	INFO	Stopped listening on port 64822
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612247720027	geckodriver	INFO	Listening on 127.0.0.1:65028
+1612247724118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofilexG0Sgj"
+1612247725863	Marionette	INFO	Listening on port 65036
+1612247726185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612247726198	Marionette	ERROR	[13] No reply from Marionette:Register
+1612247750821	Marionette	INFO	Stopped listening on port 65036
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612250574489	geckodriver	INFO	Listening on 127.0.0.1:65470
+1612250577684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofileMqqy5m"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612250582678	Marionette	INFO	Listening on port 65478
+1612250583016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612250583026	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612250598532	Marionette	INFO	Stopped listening on port 65478
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612250639902	geckodriver	INFO	Listening on 127.0.0.1:49179
+1612250643026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofileiRmb8W"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612250647552	Marionette	INFO	Listening on port 49187
+1612250647843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612250647855	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1612250654421	Marionette	INFO	Stopped listening on port 49187
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612250694023	geckodriver	INFO	Listening on 127.0.0.1:49277
+1612250697118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofilefqdKgJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612250701230	Marionette	INFO	Listening on port 49285
+1612250701323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612250701337	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 9280, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612250802747	Marionette	INFO	Stopped listening on port 49285
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612250804753	geckodriver	INFO	Listening on 127.0.0.1:49391
+1612250807814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofileZCjXpm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612250812424	Marionette	INFO	Listening on port 49399
+1612250813323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612250813334	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612251498334	Marionette	INFO	Stopped listening on port 49399
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+", "(unknown module)"))
+1612251355620	Marionette	INFO	Listening on port 49493
+1612251355761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612251355772	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612251751903	Marionette	INFO	Stopped listening on port 49493
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612251755289	geckodriver	INFO	Listening on 127.0.0.1:49581
+1612251758368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofileseYcjb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612251763158	Marionette	INFO	Listening on port 49589
+1612251763649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612251763664	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612251794915	Marionette	INFO	Stopped listening on port 49589
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612251815277	geckodriver	INFO	Listening on 127.0.0.1:49644
+1612251818362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofileh0i3gz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612251822967	Marionette	INFO	Listening on port 49652
+1612251823228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612251823239	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612251883934	Marionette	INFO	Stopped listening on port 49652
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612251927811	geckodriver	INFO	Listening on 127.0.0.1:49728
+1612251930907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofilebO9oEf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612251935226	Marionette	INFO	Listening on port 49736
+1612251935898	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612251935907	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612252018140	Marionette	INFO	Stopped listening on port 49736
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612252664959	geckodriver	INFO	Listening on 127.0.0.1:49848
+1612252668063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofileUMGh7E"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612252674209	Marionette	INFO	Listening on port 49856
+1612252674406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612252674421	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+1612252685804	Marionette	ERROR	[31] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 6184, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+1612252729489	Marionette	INFO	Stopped listening on port 49856
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612252733240	geckodriver	INFO	Listening on 127.0.0.1:49913
+1612252736371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofileFzPuEv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612252741452	Marionette	INFO	Listening on port 49921
+1612252741712	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612252741722	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612252754861	Marionette	INFO	Stopped listening on port 49921
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612252817692	geckodriver	INFO	Listening on 127.0.0.1:49982
+1612252820825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofilebTghFb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612252825073	Marionette	INFO	Listening on port 49990
+1612252825183	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612252825199	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612252860983	Marionette	INFO	Stopped listening on port 49990
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612253032682	geckodriver	INFO	Listening on 127.0.0.1:50291
+1612253035793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofilersn0uf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612253040191	Marionette	INFO	Listening on port 50299
+1612253040626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612253040638	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612253057736	Marionette	INFO	Stopped listening on port 50299
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612253395835	geckodriver	INFO	Listening on 127.0.0.1:50562
+1612253398942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\DVKH\\AppData\\Local\\Temp\\rust_mozprofileRcMrsg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612253407028	Marionette	INFO	Listening on port 50570
+1612253407644	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612253407652	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 12144, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612253423715	Marionette	INFO	Stopped listening on port 50570
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
